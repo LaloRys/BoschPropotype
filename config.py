@@ -1,0 +1,4 @@
+
+LOGON_ID = "isra970630@gmail.com"
+LOGON_PASSWORD = "1234"
+BASIC_AUTH = ""
